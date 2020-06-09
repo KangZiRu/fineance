@@ -1,0 +1,1 @@
+final String baseUrl = "https://kangziru-flutter.000webhostapp.com/";
